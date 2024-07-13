@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    ".fantomasignore": "ignore",
+    "*.php": "php",
+    "xstring": "cpp",
+    "iostream": "cpp"
+  }
+}
